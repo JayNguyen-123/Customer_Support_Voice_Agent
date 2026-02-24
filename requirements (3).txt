@@ -1,0 +1,10 @@
+deepgram-sdk
+elevenlabs
+websockets
+anthropic
+websockets
+python-dotenv
+pydantic
+asyncpg
+httpx
+requests
